@@ -1,11 +1,11 @@
 # Site settings
 author: Garrett Thompson
-title: 
+title: The Journey begins
 header-img: img/home-bg.png
 email: gtcruz.gt@gmail.com
 copyright_name: Garrett Thompson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  HiphopSamurai
